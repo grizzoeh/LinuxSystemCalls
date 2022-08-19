@@ -1,15 +1,3 @@
-# lab-fork
+The goal of this project was to use and implement the main Linux System Calls and utilities sucha as: fork(2), pipe(2), openat(2), readdir(3), fdopendir(3), dirfd(3), opendir(3), xargs(1), execvp(3), wait(2).
 
-Repositorio para el esqueleto del [lab fork](https://fisop.github.io/7508/lab/fork) del curso Mendez-Fresia de **Sistemas Operativos (7508) - FIUBA**
-
-## Compilar
-
-```bash
-$ make
-```
-
-## Linter
-
-```bash
-$ make format
-```
+This project was part of an assigment of the subject "Operating Systems", University of Buenos Aires.
